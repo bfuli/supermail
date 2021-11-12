@@ -5,5 +5,5 @@
 </template>
 
 <style>
-
+@import "assets/css/normalize.css";
 </style>
